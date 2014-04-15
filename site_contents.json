@@ -1,0 +1,10 @@
+{
+	"navigation": {
+		"register": "Register",
+        "about": "About",
+		"photos": "Photos",
+        "horses": "Horses",
+        "contact": "Contact",
+        "faq": "FAQ"
+	}
+}

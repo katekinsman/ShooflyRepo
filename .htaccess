@@ -1,0 +1,11 @@
+RewriteEngine on
+
+# Pass-through existing files (e.g. images, scripts)
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^.*$ - [L]
+
+RewriteRule ^shooflyfarm.com/ShooflyFarm/Home.html/?$ shooflyfarm.com/ShooflyFarm/index.php [QSA]
+
+# /pageid/ ? index.php?page=pageid
+RewriteRule ^(about|register|photos|contact|faq|horses)/?$ index.php?page=$1 [QSA]
