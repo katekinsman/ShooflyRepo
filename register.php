@@ -5,7 +5,7 @@
         <p>Apart from that, our 2014 summer camps are full! Please check in with us next summer for more camps.</p>
         <table>
             <tr>
-                <td>June 16-20</td>
+                <td class="closed">June 16-20</td>
                 <td class="closed">July 7-11</td>
                 <td class="closed">August 4-8 (overnight available)</td>
             </tr>
