@@ -14,6 +14,6 @@
 <section class="home">
     <h2>Shoofly Updates</h2>
     <article>
-        <p class="update">Summer changes have opened a few spaces in the sessions starting on 8/4 and 8/25.</p>
-		<p class="update">To join us this summer, just click the "Register Now!" button.</p>
+        <p class="update">Summer 2015 will be available in January.</p>
+		<p class="update">Thank you and enjoy your winter!</p>
 </section>
