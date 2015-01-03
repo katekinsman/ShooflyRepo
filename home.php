@@ -14,6 +14,8 @@
 <section class="home">
     <h2>Shoofly Updates</h2>
     <article>
-        <p class="update">Summer 2015 will be available in January.</p>
-		<p class="update">Thank you and enjoy your winter!</p>
+        <p class="update">Welcome</p>
+		<p class="update">We are looking forward to a summer filled with daycamp fun!</p>
+		<p class="update">Our schedule for 2015 will be posted next week.</p>
+		<p class="update">Registration will open online January 15th.</p>
 </section>

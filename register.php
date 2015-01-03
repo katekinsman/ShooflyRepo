@@ -1,28 +1,27 @@
 <section class="register">
     <article>
-        <h2>2014 sessions include:</h2>
-        <p>We have limited space in our June 16-20th session.</p>
-        <p>Apart from that, our 2014 summer camps are full! Please check in with us next summer for more camps.</p>
+        <h2>2015 sessions include:</h2>
+        <p> </p>
         <table>
             <tr>
-                <td class="closed">June 16-20</td>
-                <td class="closed">July 7-11</td>
-                <td class="closed">August 4-8 (overnight available)</td>
+                <td class="closed"> </td>
+                <td class="closed"> </td>
+                <td class="closed"> </td>
             </tr>
             <tr>
-                <td class="closed">June 23-27</td>
-                <td class="closed">July 14-18 (overnight available)</td>
-                <td class="closed">August 11-15</td>
+                <td class="closed"> </td>
+                <td class="closed"> </td>
+                <td class="closed"> </td>
             </tr>
             <tr>
-                <td class="closed">June 30- July 3 (4 day)</td>
-                <td class="closed">July 21-25</td>
-                <td class="closed">August 18-22</td>
+                <td class="closed"> </td>
+                <td class="closed"> </td>
+                <td class="closed"> </td>
             </tr>
             <tr>
                 <td></td>
                 <td></td>
-                <td class="closed">August 25-29</td>
+                <td class="closed"> </td>
             </tr>
         </table>
         <div class="centeredbutton"><a href="http://shooflyfarms.bonzidev.com/home.php"><button
@@ -44,8 +43,8 @@
         select few weeks of camp:</p>
         <table>
             <tr>
-                <td>July 14-18</td>
-                <td>August 4-8</td>
+                <td> </td>
+                <td> </td>
             </tr>
         </table>
         <p>Price: Additional $100.</p>
