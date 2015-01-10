@@ -4,24 +4,32 @@
         <p> </p>
         <table>
             <tr>
-                <td class="closed"> </td>
-                <td class="closed"> </td>
-                <td class="closed"> </td>
+                <td class="open">June 15-19</td>
+				<td></td>
+                <td class="open">July 6-10</td>
+				<td></td>
+                <td class="open">August 3-7</td>
             </tr>
             <tr>
-                <td class="closed"> </td>
-                <td class="closed"> </td>
-                <td class="closed"> </td>
+                <td class="open">June 22-26</td>
+				<td></td>
+                <td class="open">July 13-17</td>
+				<td></td>
+                <td class="open">August 10-14</td>
             </tr>
             <tr>
-                <td class="closed"> </td>
-                <td class="closed"> </td>
-                <td class="closed"> </td>
+                <td class="open">June 29-3</td>
+				<td></td>
+                <td class="open">July 20-24</td>
+				<td></td>
+                <td class="open">August 17-21</td>
             </tr>
             <tr>
                 <td></td>
                 <td></td>
-                <td class="closed"> </td>
+				<td></td>
+				<td></td>
+                <td class="open">August 24-28</td>
             </tr>
         </table>
         <div class="centeredbutton"><a href="http://shooflyfarms.bonzidev.com/home.php"><button
@@ -38,16 +46,13 @@
         t-shirt and water bottle are included. Fun for ages 5 and up!</p>
         <p>Price: $525.</p>
 
-        <h3>Overnights</h3>
-        <p>An optional overnight is offered on Thursdays for campers 8 and older. Overnights are offered on a
-        select few weeks of camp:</p>
+        <p>Shoofly Farm will not be offering overnights this summer.</p>
         <table>
             <tr>
                 <td> </td>
                 <td> </td>
             </tr>
         </table>
-        <p>Price: Additional $100.</p>
 
 
     </article>

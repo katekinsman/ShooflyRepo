@@ -121,31 +121,7 @@
             </div>
         </div>
     </article>
-
-    <article>
-        <h2><div class="collapsibleIcon">&rsaquo; </div>What is an overnight?</h2>
-        <div class="collapsible_w">
-            <div class="collapsible">
-                <p>An optional overnight is offered on Thursdays for campers 8 and older. Overnights are offered on a select
-                 few weeks of camp, as denoted on the schedule on the register page. Children bring sleeping bags and
-                 overnight gear and set up tents around camp to sleep in with their camp friends. There is a lot of extra
-                 free time and extra horseback-riding time, followed by a BBQ and skits put on by the counselors and kids. A
-                 few counselors sleep under the stars, keeping tabs on children and tents. In the morning,
-                 they make breakfast and take down tents while they wait for the other campers to arrive and camp to start.
-                 </p>
-             </div>
-         </div>
-    </article>
-
-    <article>
-        <h2><div class="collapsibleIcon">&rsaquo; </div>How old does my child have to be to do an overnight?</h2>
-        <div class="collapsible_w">
-            <div class="collapsible">
-                <p>The overnight is offered for campers 8 and older.</p>
-            </div>
-        </div>
-    </article>
-
+	
     <article>
         <h2><div class="collapsibleIcon">&rsaquo; </div>How do I get ahold of someone while my child is at camp?</h2>
         <div class="collapsible_w">
