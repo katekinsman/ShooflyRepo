@@ -13,7 +13,7 @@
             <tr>
                 <td class="open">June 22-26</td>
 				<td></td>
-                <td class="open">July 13-17</td>
+                <td class="closed">July 13-17</td>
 				<td></td>
                 <td class="open">August 10-14</td>
             </tr>
