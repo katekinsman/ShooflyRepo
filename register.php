@@ -8,10 +8,10 @@
 				<td></td>
                 <td class="closed">July 6-10</td>
 				<td></td>
-                <td class="open">August 3-7</td>
+                <td class="closed">August 3-7</td>
             </tr>
             <tr>
-                <td class="open">June 22-26</td>
+                <td class="closed">June 22-26</td>
 				<td></td>
                 <td class="closed">July 13-17</td>
 				<td></td>
