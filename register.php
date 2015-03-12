@@ -15,7 +15,7 @@
 				<td></td>
                 <td class="closed">July 13-17</td>
 				<td></td>
-                <td class="open">August 10-14</td>
+                <td class="closed">August 10-14</td>
             </tr>
             <tr>
                 <td class="closed">June 29-3</td>
@@ -29,7 +29,7 @@
                 <td></td>
 				<td></td>
 				<td></td>
-                <td class="open">August 24-28</td>
+                <td class="closed">August 24-28</td>
             </tr>
         </table>
         <div class="centeredbutton"><a href="http://shooflyfarms.bonzidev.com/home.php"><button
