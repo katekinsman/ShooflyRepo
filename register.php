@@ -4,7 +4,7 @@
         <p> </p>
         <table>
             <tr>
-                <td class="open">June 15-19</td>
+                <td class="closed">June 15-19</td>
 				<td></td>
                 <td class="closed">July 6-10</td>
 				<td></td>

@@ -14,8 +14,7 @@
 <section class="home">
     <h2>Shoofly Updates</h2>
     <article>
-        <p class="update">Welcome</p>
-		<p class="update">We are looking forward to a summer filled with daycamp fun!</p>
-		<p class="update">Our schedule for 2015 will be posted next week.</p>
-		<p class="update">Registration will open online January 15th.</p>
+        <p class="update">Our programs are full for 2015.</p>
+		<p class="update">Please email Jill@ShooflyFarm.com to be added to a waitlist.</p>
+		<p class="update">Thank You!</p>
 </section>
