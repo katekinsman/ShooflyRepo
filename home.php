@@ -14,7 +14,6 @@
 <section class="home">
     <h2>Shoofly Updates</h2>
     <article>
-        <p class="update">Our programs are full for 2015.</p>
-		<p class="update">Please email Jill@ShooflyFarm.com to be added to a waitlist.</p>
-		<p class="update">Thank You!</p>
+        <p class="update">Our 2016 schedule is available under the registration tab.</p>
+		<p class="update">Registration will open online, Saturday January 16th.</p>
 </section>

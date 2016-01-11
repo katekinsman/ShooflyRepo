@@ -1,40 +1,41 @@
 <section class="register">
     <article>
-        <h2>2015 sessions include:</h2>
+        <h2>2016 sessions include:</h2>
         <p> </p>
         <table>
             <tr>
-                <td class="closed">June 15-19</td>
+                <td class="open">June 13-17</td>
 				<td></td>
-                <td class="closed">July 6-10</td>
+                <td class="open">July 11-15</td>
 				<td></td>
-                <td class="closed">August 3-7</td>
+                <td class="open">August 8-12</td>
             </tr>
             <tr>
-                <td class="closed">June 22-26</td>
+                <td class="open">June 20-24</td>
 				<td></td>
-                <td class="closed">July 13-17</td>
+                <td class="closed">July 18-21</td>
 				<td></td>
-                <td class="closed">August 10-14</td>
+                <td class="open">August 15-19</td>
             </tr>
             <tr>
-                <td class="closed">June 29-3</td>
+                <td class="open">June 27-1</td>
 				<td></td>
-                <td class="closed">July 20-24</td>
+                <td class="open">July 25-29</td>
 				<td></td>
-                <td class="closed">August 17-21</td>
+                <td class="open">August 22-26</td>
             </tr>
             <tr>
-                <td></td>
-                <td></td>
+                <td class="open">July 5-8*</td>
 				<td></td>
+				<td class="open">August 1-5</td>
 				<td></td>
-                <td class="closed">August 24-28</td>
+                <td class="open">August 29-2</td>
             </tr>
         </table>
         <div class="centeredbutton"><a href="http://shooflyfarms.bonzidev.com/home.php"><button
         class="registerbutton">Register</button></a></div>
         </br>
+		<p>July 5-8 is a four day session due to the 4th of July.</p>
         <p>After you've registered for a session, please take a look at what to bring to camp on our FAQ page.</p>
     </article>
 </section>
