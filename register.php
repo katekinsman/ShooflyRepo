@@ -6,7 +6,7 @@
             <tr>
                 <td class="open">June 13-17</td>
 				<td></td>
-                <td class="open">July 11-15</td>
+                <td class="closed">July 11-15</td>
 				<td></td>
                 <td class="open">August 8-12</td>
             </tr>
@@ -15,12 +15,12 @@
 				<td></td>
                 <td class="closed">July 18-21</td>
 				<td></td>
-                <td class="open">August 15-19</td>
+                <td class="closed">August 15-19</td>
             </tr>
             <tr>
                 <td class="open">June 27-1</td>
 				<td></td>
-                <td class="open">July 25-29</td>
+                <td class="closed">July 25-29</td>
 				<td></td>
                 <td class="open">August 22-26</td>
             </tr>
