@@ -18,7 +18,7 @@
                 <td class="closed">August 15-19</td>
             </tr>
             <tr>
-                <td class="open">June 27-1</td>
+                <td class="closed">June 27-1</td>
 				<td></td>
                 <td class="closed">July 25-29</td>
 				<td></td>
