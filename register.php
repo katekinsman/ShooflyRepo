@@ -29,13 +29,13 @@
 				<td></td>
 				<td class="open">August 1-5</td>
 				<td></td>
-                <td class="open">August 29-2</td>
+                <td class="open">August 29-1*</td>
             </tr>
         </table>
         <div class="centeredbutton"><a href="http://shooflyfarms.bonzidev.com/home.php"><button
         class="registerbutton">Register</button></a></div>
         </br>
-		<p>July 5-8 is a four day session due to the 4th of July.</p>
+		<p>July 5-8 and August 29-1 are 4 day sessions.</p>
         <p>After you've registered for a session, please take a look at what to bring to camp on our FAQ page.</p>
     </article>
 </section>
