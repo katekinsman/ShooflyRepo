@@ -14,6 +14,6 @@
 <section class="home">
     <h2>Shoofly Updates</h2>
     <article>
-        <p class="update">Our 2016 schedule is available under the registration tab.</p>
-		<p class="update">Registration will open online, Saturday January 16th.</p>
+        <p class="update">You can still join the fun!</p>
+		<p class="update">Space available the weeks of June 13th, July 5th, and August 29th.</p>
 </section>
