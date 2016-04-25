@@ -29,7 +29,7 @@
 				<td></td>
 				<td class="closed">August 1-5</td>
 				<td></td>
-                <td class="open">August 29-1*</td>
+                <td class="closed">August 29-1*</td>
             </tr>
         </table>
         <div class="centeredbutton"><a href="http://shooflyfarms.bonzidev.com/home.php"><button

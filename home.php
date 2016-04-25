@@ -15,5 +15,5 @@
     <h2>Shoofly Updates</h2>
     <article>
         <p class="update">You can still join the fun!</p>
-		<p class="update">Space available the weeks of June 13th, July 5th, and August 29th.</p>
+		<p class="update">Space available the first week of camp, June 13-17.</p>
 </section>
