@@ -14,6 +14,6 @@
 <section class="home">
     <h2>Shoofly Updates</h2>
     <article>
-        <p class="update">You can still join the fun!</p>
-		<p class="update">Space available the first week of camp, June 13-17.</p>
+        <p class="update">Registration for Summer 2017 available here January 17th.</p>
+		<p class="update"></p>
 </section>

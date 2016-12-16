@@ -4,38 +4,36 @@
         <p> </p>
         <table>
             <tr>
-                <td class="open">June 13-17</td>
+                <td class="open">June 19-23</td>
 				<td></td>
-                <td class="closed">July 11-15</td>
+                <td class="open">July 17-21</td>
 				<td></td>
-                <td class="closed">August 8-12</td>
+                <td class="open">August 14-18</td>
             </tr>
             <tr>
-                <td class="closed">June 20-24</td>
+                <td class="open">June 26-30</td>
 				<td></td>
-                <td class="closed">July 18-21</td>
+                <td class="closed">July 24-28</td>
 				<td></td>
-                <td class="closed">August 15-19</td>
+                <td class="open">August 21-25</td>
             </tr>
             <tr>
-                <td class="closed">June 27-1</td>
+                <td class="open">July 3-7</td>
 				<td></td>
-                <td class="closed">July 25-29</td>
+                <td class="open">July 31-August 4</td>
 				<td></td>
-                <td class="closed">August 22-26</td>
             </tr>
             <tr>
-                <td class="closed">July 5-8*</td>
+                <td class="open">July 10-14</td>
 				<td></td>
-				<td class="closed">August 1-5</td>
+				<td class="open">August 7-11</td>
 				<td></td>
-                <td class="closed">August 29-1*</td>
             </tr>
         </table>
         <div class="centeredbutton"><a href="http://shooflyfarms.bonzidev.com/home.php"><button
         class="registerbutton">Register</button></a></div>
         </br>
-		<p>July 5-8 and August 29-1 are 4 day sessions.</p>
+		<p>Camp will be running on Tuesday, July 4th.</p>
         <p>After you've registered for a session, please take a look at what to bring to camp on our FAQ page.</p>
     </article>
 </section>
@@ -45,9 +43,8 @@
         <h2>Sessions</h2>
         <p>Sessions run Monday-Friday, 9am-3pm. All snacks, a cookout lunch on Friday, and your own Shoofly
         t-shirt and water bottle are included. Fun for ages 5 and up!</p>
-        <p>Price: $525.</p>
+        <p>Price: $545.</p>
 
-        <p>Shoofly Farm will not be offering overnights this summer.</p>
         <table>
             <tr>
                 <td> </td>
