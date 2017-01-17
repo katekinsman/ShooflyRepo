@@ -1,6 +1,6 @@
 <section class="register">
     <article>
-        <h2>2016 sessions include:</h2>
+        <h2>2017 sessions include:</h2>
         <p> </p>
         <table>
             <tr>

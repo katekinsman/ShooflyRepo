@@ -14,6 +14,6 @@
 <section class="home">
     <h2>Shoofly Updates</h2>
     <article>
-        <p class="update">Registration for Summer 2017 available here January 17th.</p>
+        <p class="update">Registration is now open.</p>
 		<p class="update"></p>
 </section>
