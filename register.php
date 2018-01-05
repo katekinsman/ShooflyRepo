@@ -1,32 +1,34 @@
 <section class="register">
     <article>
-        <h2>2017 sessions include:</h2>
+        <h2>2018 sessions include:</h2>
         <p> </p>
         <table>
             <tr>
-                <td class="open">June 19-23</td>
+                <td class="open">June 18-22</td>
 				<td></td>
-                <td class="open">July 17-21</td>
+                <td class="open">June 25-29</td>
 				<td></td>
-                <td class="open">August 14-18</td>
+                <td class="open">July 2-6</td>
             </tr>
             <tr>
-                <td class="open">June 26-30</td>
+                <td class="open">July 9-13</td>
 				<td></td>
-                <td class="closed">July 24-28</td>
+                <td class="open">July 16-20</td>
 				<td></td>
-                <td class="open">August 21-25</td>
+                <td class="open">July 23-27</td>
             </tr>
             <tr>
-                <td class="open">July 3-7</td>
+                <td class="open">July 30-August 3</td>
 				<td></td>
-                <td class="open">July 31-August 4</td>
+                <td class="open">August 6-10</td>
+				<td></td>
+				<td class="open">August 13-17</td>
 				<td></td>
             </tr>
             <tr>
-                <td class="open">July 10-14</td>
+                <td class="open">August 20-24</td>
 				<td></td>
-				<td class="open">August 7-11</td>
+				<td class="open">August 27-31</td>
 				<td></td>
             </tr>
         </table>
