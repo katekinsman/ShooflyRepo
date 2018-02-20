@@ -14,5 +14,6 @@
 <section class="home">
     <h2>Shoofly Updates</h2>
     <article>
-        <p class="update">Registration will open Wednesday January 10, 2018. Come join the fun!</p>
+        <p class="update">All weeks of camp are currently full.</p>
+		<p class="update">Please email Jill at Jill@ShooflyFarm.com to be added to the wait list.</p>
 </section>
