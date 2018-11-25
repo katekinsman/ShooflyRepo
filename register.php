@@ -4,38 +4,38 @@
         <p> </p>
         <table>
             <tr>
-                <td class="closed">June 18-22</td>
+                <td class="closed"></td>
 				<td></td>
-                <td class="closed">June 25-29</td>
+                <td class="open">To be determined.</td>
 				<td></td>
-                <td class="closed">July 2-6</td>
+                <td class="closed"></td>
             </tr>
             <tr>
-                <td class="closed">July 9-13</td>
+                <td class="closed"></td>
 				<td></td>
-                <td class="closed">July 16-20</td>
+                <td class="closed"></td>
 				<td></td>
-                <td class="closed">July 23-27</td>
+                <td class="closed"></td>
             </tr>
             <tr>
-                <td class="closed">July 30-August 3</td>
+                <td class="closed"></td>
 				<td></td>
-                <td class="closed">August 6-10</td>
+                <td class="closed"></td>
 				<td></td>
-				<td class="closed">August 13-17</td>
+				<td class="closed"></td>
 				<td></td>
             </tr>
             <tr>
-                <td class="closed">August 20-24</td>
+                <td class="closed"></td>
 				<td></td>
-				<td class="closed">August 27-31</td>
+				<td class="closed"></td>
 				<td></td>
             </tr>
         </table>
         <div class="centeredbutton"><a href="http://shooflyfarms.bonzidev.com/home.php"><button
         class="registerbutton">Register</button></a></div>
         </br>
-		<p>Camp will be running on Tuesday, July 4th.</p>
+		<p></p>
         <p>After you've registered for a session, please take a look at what to bring to camp on our FAQ page.</p>
     </article>
 </section>

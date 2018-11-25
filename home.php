@@ -14,6 +14,6 @@
 <section class="home">
     <h2>Shoofly Updates</h2>
     <article>
-        <p class="update">All weeks of camp are currently full.</p>
-		<p class="update">Please email Jill at Jill@ShooflyFarm.com to be added to the wait list.</p>
+        <p class="update">Registration for summer 2019 will be available in January.</p>
+		<p class="update"></p>
 </section>
