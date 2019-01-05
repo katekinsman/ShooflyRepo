@@ -14,6 +14,6 @@
 <section class="home">
     <h2>Shoofly Updates</h2>
     <article>
-        <p class="update">Registration for summer 2019 will be available in January.</p>
+        <p class="update">Registration for summer 2019 will be available on January 10th.</p>
 		<p class="update"></p>
 </section>
