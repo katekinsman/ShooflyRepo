@@ -42,7 +42,7 @@
 				<td></td>
             </tr>
         </table>
-        <div class="centeredbutton"><a href="http://shooflyfarms.bonzidev.com/home.php"><button
+        <div class="centeredbutton"><a href="https://www.cognitoforms.com/ShooflyFarm1/ShooflyRegistration2021"><button
         class="registerbutton">Register</button></a></div>
         </br>
 		<p></p>
