@@ -6,7 +6,7 @@
         <div class="centeredbutton">
             <a href="<?= $BASE_URL ?>/index.php?page=register"><button
                 class="schedule">Schedule</button></a>
-            <a href="http://shooflyfarms.bonzidev.com/home.php"><button
+            <a href="https://www.cognitoforms.com/ShooflyFarm1/ShooflyRegistration2021"><button
                 class="registerbutton">Register Now!</button></a>
         </div>
 </section>
